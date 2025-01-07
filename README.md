@@ -29,6 +29,6 @@ Things to turn in:
 - Github link in comments
 - Don't forget the peer review!
 
-## Reviewed By
+## Reviewed By Brock Spacek
 
-## Comments
+## Comments: All 3 endpoints work as intended when tested. I did notice you used an int for your time variable so it didn't allow me to type in am or pm but its something very small. Overall good job!
